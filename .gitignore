@@ -1,0 +1,5 @@
+/.NET/SonarServer/SonarServer/bin/Debug
+/.NET/SonarServer/SonarServer/obj/Debug
+/.NET/SonarServer/*.suo
+/.NET/SonarClient/SonarClient/bin
+/.NET/SonarClient/SonarClient/obj/Debug
